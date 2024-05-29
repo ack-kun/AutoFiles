@@ -1,6 +1,6 @@
 # AutoFiles
 
-GUI based file automator to manage your files. Makes a folder according to file extention and moves file to that specific folder as per extention. 
+File management software with a graphical user interface. creates a folder based on the file extension and then transfers the file to that particular folder. 
 
 ## Requirements
 
